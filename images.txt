@@ -1,11 +1,31 @@
 nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+# 私人库
 louislam/dockge:1
 linzeyi/hivision_idphotos
 alpine:3.18.2
 hslr/sun-panel
 mzz2017/v2raya:v2.2.6.3
+yooooomi/easy-countdown
+fogforest/yesplaymusic
+jonnyan404/mrdoc-nginx
+advplyr/audiobookshelf
+portainer/portainer-ce:2.19.4
+p3terx/aria2-pro
+p3terx/ariang
+xhofe/alist:latest
+adolfintel/speedtest
+amilys/embyserver
+operepo/ope-codecombat
+wbsu2003/aipan-netdisk-search:latest
+postgres:15
+itzg/minecraft-server
+youshandefeiyang/allinone
+yuexuangu/allinone_format:latest
+containrrr/watchtower
+iperf3-server
+homeassistant/home-assistant:2023.12
